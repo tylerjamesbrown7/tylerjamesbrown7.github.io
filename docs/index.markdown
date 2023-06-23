@@ -6,3 +6,9 @@ layout: home
 ---
 
 Hello everyone.
+
+This is a photo of a raccoon.
+
+![raccoon](images/raccoon.jpg)
+
+
