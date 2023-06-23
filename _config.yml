@@ -30,7 +30,7 @@ twitter_username: tylerb0422
 github_username:  tylerjamesbrown7
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
