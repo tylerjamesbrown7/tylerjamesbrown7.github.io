@@ -15,7 +15,7 @@ layout: home
                         <font size="+2"><b>About me</b></font>
                     </div>
                     <div id="about-me-box-content">
-                        <p><br><font size="+1">Hey! I'm currently a research fellow at <a href="https://economia.uc3m.es/">Universidad Carlos III de Madrid</a> in the department of economics. In the fall, I'll be a new master's student at <a href="https://www.uni-konstanz.de/">Universität Konstanz</a> in the Social and Economic Data Science program. I work on migration, political economy, and European politics. My research interests include interactions between the state and social change, as well as the growth of radical right politics in Europe.</font><br></p>
+                        <p><br><font size="+1">Hey! I'm currently a research fellow at <a href="https://economia.uc3m.es/">Universidad Carlos III de Madrid</a> in the department of economics. I work on political economy and European politics. I am interested in how migration affects support for the far-right and the interactions between migration and state capacity. In the fall, I'm starting a master's at <a href="https://www.uni-konstanz.de/">Universität Konstanz</a> in Social and Economic Data Science.</font><br></p>
                     </div>
                 </div>
             </div>
