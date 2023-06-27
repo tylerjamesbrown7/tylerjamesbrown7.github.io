@@ -14,7 +14,7 @@
   @include relative-font-size(2);
   font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.75;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
   color: $title-color;
