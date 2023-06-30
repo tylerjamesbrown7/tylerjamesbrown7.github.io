@@ -5,8 +5,6 @@
 layout: home
 ---
 
-
-
 ![tb_head](https://raw.githubusercontent.com/tylerjamesbrown7/tylerjamesbrown7.github.io/master/images/tb_photo.jpg)
 
 <div id="about-me-container">
