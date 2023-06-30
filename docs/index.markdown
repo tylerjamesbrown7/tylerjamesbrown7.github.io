@@ -5,11 +5,15 @@
 layout: home
 ---
 
+{:refdef: style="text-align: center;"}
 ![tb_head](https://raw.githubusercontent.com/tylerjamesbrown7/tylerjamesbrown7.github.io/master/images/tb_photo.jpg)
+{: refdef}
 
 <div id="about-me-container">
                 <div id="inner">
+                
                     <div id="about-me-box-header">
+ 
                         <font size="+2"><b>About me</b></font>
                     </div>
                     <div id="about-me-box-content">
@@ -17,6 +21,7 @@ layout: home
                     </div>
                 </div>
             </div>
+
 
 
 
@@ -32,9 +37,10 @@ layout: home
 
           
 <br>
-This is a photo of a raccoon.
 
-![raccoon](https://raw.githubusercontent.com/tylerjamesbrown7/tylerjamesbrown7.github.io/master/images/raccoon.jpg)
+
+
+
 
 
 

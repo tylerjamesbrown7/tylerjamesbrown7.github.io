@@ -3,9 +3,11 @@
 
    <div class="wrapper">
 
-    <h2 class="footer-heading"><b>Get in touch</b></h2>
+    <h2 class="footer-heading"><b>Get in touch<img src = "{{ "/raccoon.jpg" | prepend: site.baseurl }}" style='float:right'></b></h2>
+    
 
    <div class="footer">
+     
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
@@ -23,8 +25,10 @@
             {%- endif -%}
         </ul>
 </div>
-<br>
+
 
   </div>
+  
+  
 
 </footer>
