@@ -7,9 +7,9 @@ permalink: /about/
 ## Education
 
 ### University of Konstanz
-**M.Sc. Social and Economic Data Science (expected 2025)**
+**M.Sc. Social and Economic Data Science (2025)**
 
-Master's thesis (prospective): "Sharpened Pencils: New parties and old elites after democratic transition"
+Master's thesis: "Sharpened Pencils: New parties and old elites after democratization"
 
 ### Yale University
 **B.A. Political Science (2023)**
